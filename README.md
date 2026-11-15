@@ -57,6 +57,22 @@ The report contains three pages:
 2. **June 2025 - Wind Analysis:** Reduction activity, BM unit comparisons, daily patterns and wind generation versus demand.
 3. **Key Insights & Recommendations:** Findings, business implications and suggested operational improvements.
 
+
+### Power BI Dashboard Screenshots
+
+**1. Annual Overview - 2025**
+
+![Annual Overview](screenshots/Annual_Overview_2025.png.png)
+
+**2. June 2025 - Wind Analysis**
+
+![June Wind Analysis](screenshots/June_2025_Wind_Analysis.png.png)
+
+**3. Key Insights & Recommendations**
+
+![Key Insights](screenshots/Key_Insights_Recommendations.png.png)
+
+
 ## Business Recommendations
 - Investigate battery storage and demand-side flexibility to reduce renewable energy curtailment.
 - Monitor unusually high-cost periods to identify recurring operational constraints.
